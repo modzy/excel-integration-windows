@@ -4,13 +4,13 @@
 
 <div align="center">
 
-**This is a template for all public-facing repositories that includes a README, contributing doc, license, and code of conduct. Replace this description with a relevant one for your repository.**
+**This repository contains the VBA scripts required to build a Modzy integration with Excel on a Windows machine.**
 
-![GitHub contributors](https://img.shields.io/github/contributors/modzy/public-repo-starter-template)
-![GitHub last commit](https://img.shields.io/github/last-commit/modzy/public-repo-starter-template)
-![GitHub Release Date](https://img.shields.io/github/issues-raw/modzy/public-repo-starter-template)
+![GitHub contributors](https://img.shields.io/github/contributors/modzy/excel-integration-windows)
+![GitHub last commit](https://img.shields.io/github/last-commit/modzy/excel-integration-windows)
+![GitHub Release Date](https://img.shields.io/github/issues-raw/modzy/excel-integration-windows)
 
-[Link to related or similar repositories](<insert link here>) | [Link to related or similar repositories](<insert link here>) | [Link to related or similar repositories](<insert link here>)
+[Excel for Mac with VBA](<https://github.com/modzy/integration-excel-mac>)
 </div>
 
 
@@ -34,8 +34,8 @@
 
 ## Contributing
 
-We are happy to receive contributions from all of our users. Check out our [contributing file](https://github.com/modzy/public-repo-starter-template/blob/master/CONTRIBUTING.adoc) to learn more.
+We are happy to receive contributions from all of our users. Check out our [contributing file](https://github.com/modzy/excel-integration-windows/blob/master/CONTRIBUTING.adoc) to learn more.
 
 ## Code of conduct
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/modzy/public-repo-starter-template/blob/master/CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/modzy/excel-integration-windows/blob/master/CODE_OF_CONDUCT.md)
