@@ -77,7 +77,7 @@ Sub runHomeCreditModel()
     Dim data As String
     
     ' Initialize API Client
-    api.Initialize "https://demo.modzy.engineering/", "2GMterSomnIcXOaPyHKu.HnlucJe7iwIcj5XfpenD"
+    api.Initialize "<add-modzy-URL>", "<add-modzy-api-key>"
     
     ' Extract CSV file before sending to job
     data = toJSON(getValuesRange("Preprocessed Data"), False)
@@ -85,5 +85,4 @@ Sub runHomeCreditModel()
     ' Submit job
     api.call_api_home_credit_model data, "ML Predictions"
     
-    'Worksheets("ML Predictions").Range("c7") = body ' Set cell B1's value to our JSON data
 End Sub
