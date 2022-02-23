@@ -1,4 +1,4 @@
-# Modzy Public Repository Template
+# Modzy Integration with Excel for Windows
 
 ![Modzy Logo](https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png)
 
