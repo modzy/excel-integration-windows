@@ -1,6 +1,6 @@
 # Modzy Integration with Excel for Windows
 
-![Modzy Logo](https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png)
+<img src="https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png" alt="modzy logo" width="250"/>
 
 <div align="center">
 
