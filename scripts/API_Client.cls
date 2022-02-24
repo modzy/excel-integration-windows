@@ -47,8 +47,8 @@ Public Function call_api_home_credit_model(data As String, resultsSheet As Strin
     ' model contents
     Dim model_contents As Dictionary
     Set model_contents = New Dictionary
-    model_contents.Add "identifier", "yik4a4i2vv"
-    model_contents.Add "version", "1.0.1"
+    model_contents.Add "identifier", "jt3jyqtufg"
+    model_contents.Add "version", "1.0.0"
     
     ' combin model and input into a single json
     Dim final_dict As Dictionary
