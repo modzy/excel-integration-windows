@@ -1,9 +1,8 @@
 # Modzy Integration with Excel for Windows
 
-<img src="https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png" alt="modzy logo" width="250"/>
-
 <div align="center">
-
+<img src="https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png" alt="modzy logo" width="250" align="center"/>
+  
 **This repository contains the VBA scripts required to build a Modzy integration with Excel on a Windows machine.**
 
 ![GitHub contributors](https://img.shields.io/github/contributors/modzy/excel-integration-windows)
